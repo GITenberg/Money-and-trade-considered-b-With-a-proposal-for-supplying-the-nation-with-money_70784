@@ -1,0 +1,28 @@
+_repo: Money-and-trade-considered-b-With-a-proposal-for-supplying-the-nation-with-money_70784
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Law, John
+    gutenberg_agent_id: '55925'
+    url: http://www.gutenberg.org/2009/agents/55925
+description: ''
+gutenberg_issued: '2023-05-17'
+identifiers:
+  gutenberg: '70784'
+language: en
+pgterms:marc904: https://archive.org/details/moneytradeconsid00lawj
+pgterms:marc905: 20201204064635law
+pgterms:marc906: '1750'
+pgterms:marc907: GB
+production_note: Emmanuel Ackerman, Evander Cobban and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bR. & A. Foulis, $c1750.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Money and trade considered : $b With a proposal for supplying the nation with
+  money'
+url: http://www.gutenberg.org/ebooks/70784
