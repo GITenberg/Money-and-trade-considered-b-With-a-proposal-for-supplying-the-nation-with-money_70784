@@ -1,11 +1,16 @@
 _repo: Money-and-trade-considered-b-With-a-proposal-for-supplying-the-nation-with-money_70784
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70784-h/images/cover.jpg
 creator:
   author:
     agent_name: Law, John
     gutenberg_agent_id: '55925'
     url: http://www.gutenberg.org/2009/agents/55925
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70784#Money-and-trade-considered-b-With-a-proposal-for-supplying-the-nation-with-money
 gutenberg_issued: '2023-05-17'
 identifiers:
   gutenberg: '70784'
